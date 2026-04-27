@@ -1,0 +1,31 @@
+# Dependencias
+node_modules/
+
+# Compilación y Distribución
+dist/
+build/
+release/
+
+# Variables de Entorno
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Base de Datos y Respaldos
+backups/
+*.db
+*.sqlite
+
+# Sistema y Otros
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+scratch/
+temp/
+tmp/
